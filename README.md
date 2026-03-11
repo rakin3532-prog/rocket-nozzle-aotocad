@@ -21,3 +21,24 @@ This project demonstrates the creation of a rocket nozzle contour using coordina
 
 ## Application
 This geometry represents a rocket propulsion nozzle profile used for expanding exhaust gases and generating thrust.
+## Rocket Propulsion Theory
+
+A rocket nozzle accelerates exhaust gases to supersonic speeds using a converging–diverging geometry.
+
+### Key Concepts
+- Converging section accelerates flow to Mach 1
+- Throat is the minimum area
+- Diverging section expands gases to supersonic speeds
+
+### Governing Equation
+
+Thrust equation:
+
+F = m_dot * Ve + (Pe - Pa) * Ae
+
+Where:
+m_dot = mass flow rate  
+Ve = exit velocity  
+Pe = exit pressure  
+Pa = ambient pressure  
+Ae = exit area
