@@ -47,3 +47,11 @@ Ae = exit area
 The nozzle profile can also be generated using Python.
 
 ![Python Plot](python_nozzle_plot.png)
+![Mach Distribution](images/mach_distribution.png)
+## Nozzle Profile (Python)
+
+![Nozzle Plot](python_nozzle_plot.png)
+
+## Mach Number Distribution
+
+![Mach Distribution](mach_distribution.png)
