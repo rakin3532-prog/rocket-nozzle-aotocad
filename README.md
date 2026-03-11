@@ -42,3 +42,8 @@ Ve = exit velocity
 Pe = exit pressure  
 Pa = ambient pressure  
 Ae = exit area
+## Python Nozzle Profile Generator
+
+The nozzle profile can also be generated using Python.
+
+![Python Plot](python_nozzle_plot.png)
